@@ -63,5 +63,21 @@ graph LR
 
 技术支持 (✈️)： @alongkeji88888
 
+---
 ## 📞 演示效果
+
+### WhatsAPP测试效果
+<video controls src="video_2026-05-11_11-43-29-1.mp4" title="Title"></video>
+
+### 面板功能
+![alt text](10.png)
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
+![alt text](7.png)
+![alt text](6.png)
+![alt text](8.png)
+![alt text](9.png)
 © 2026 QTClaw Technical Team. 为全球代理提供高效、稳定的 WhatsApp 自动化技术。
