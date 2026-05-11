@@ -67,7 +67,7 @@ graph LR
 ## 📞 演示效果
 
 ### WhatsAPP测试效果
-<video controls src="video_2026-05-11_11-43-29-1.mp4" title="Title"></video>
+<video controls src="video_2026-05-11_11-43-29.mp4" title="Title"></video>
 
 ### 面板功能
 ![alt text](10.png)
