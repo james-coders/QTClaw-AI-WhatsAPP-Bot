@@ -69,9 +69,8 @@ graph LR
 
 ### WhatsAPP测试效果
 
-<video src="https://github.com/QTClaw-AI-WhatsAPP-Bot/assets/video_2026-05-11_11-43-29.mp4" controls="controls" style="max-width: 100%;">
-  您的浏览器不支持视频播放。
-</video>
+
+[点击下载演示视频](https://github.com/james-coders/QTClaw-AI-WhatsAPP-Bot/blob/ed76f28361342b5b4377b61b7568621a90621c31/video_2026-05-11_11-43-29.mp4)
 
 ### 面板功能
 ![alt text](10.png)
