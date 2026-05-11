@@ -1,10 +1,10 @@
-# 🤖 QTClaw WhatsApp Bot：全能社群自动化管理引擎
+# 🤖 WSClaw WhatsApp Bot：全能社群自动化管理引擎
 
 ![Version](https://img.shields.io/badge/Version-3.0_Stable-green.svg)
 ![Protocol](https://img.shields.io/badge/Protocol-Non--Official-blue.svg)
 ![Status](https://img.shields.io/badge/Service-7x24h-orange.svg)
 
-> **QTClaw 是为高频社群运营打造的重型自动化武器。** 
+> **WSClaw 是为高频社群运营打造的重型自动化武器。** 
 > 针对 WhatsApp 营销场景中的炸群、刷屏、管理效率低等痛点，提供一套攻防兼备的全自动解决方案。
 
 ---
@@ -48,7 +48,7 @@ graph LR
     D --> A
 ```
 ---
-## 💡 为什么选择 QTClaw？
+## 💡 为什么选择 WSClaw？
 
 *   **非官方协议深度定制：** 绕过繁琐界面，直接基于底层协议交互，响应更快，操作权限更高。
 
@@ -70,7 +70,7 @@ graph LR
 ### WhatsAPP测试效果
 
 
-[点击下载演示视频](https://github.com/james-coders/QTClaw-AI-WhatsAPP-Bot/blob/ed76f28361342b5b4377b61b7568621a90621c31/video_2026-05-11_11-43-29.mp4)
+[点击下载演示视频](https://github.com/james-coders/WSClaw-AI-WhatsAPP-Bot/blob/ed76f28361342b5b4377b61b7568621a90621c31/video_2026-05-11_11-43-29.mp4)
 
 ### 面板功能
 ![alt text](10.png)
@@ -83,4 +83,4 @@ graph LR
 ![alt text](6.png)
 ![alt text](8.png)
 ![alt text](9.png)
-© 2026 QTClaw Technical Team. 为全球代理提供高效、稳定的 WhatsApp 自动化技术。
+© 2026 WSClaw Technical Team. 为全球代理提供高效、稳定的 WhatsApp 自动化技术。
