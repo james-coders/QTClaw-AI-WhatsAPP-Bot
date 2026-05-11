@@ -63,11 +63,13 @@ graph LR
 
 技术支持 (✈️)： @alongkeji88888
 
+[![Contact Telegram](https://img.shields.io/badge/Contact-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/@alongkeji88888)
 ---
 ## 📞 演示效果
 
 ### WhatsAPP测试效果
-<video controls src="video_2026-05-11_11-43-29.mp4" title="Title"></video>
+
+[功能测试效果](https://github.com/james-coders/QTClaw-AI-WhatsAPP-Bot/blob/50735bc6c15d76a5f811bedecc8c835417d65902/video_2026-05-11_11-43-29.mp4)
 
 ### 面板功能
 ![alt text](10.png)
