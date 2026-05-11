@@ -61,7 +61,7 @@ graph LR
 
 如果您需要 查看功能演示视频、咨询代理合作 或 定制化部署，请通过以下渠道联系：
 
-技术支持 (✈️)： [\[@alongkeji88888\]](https://t.me/@alongkeji88888)
+技术支持 (✈️)： @alongkeji88888
 
 ## 📞 演示效果
 © 2026 QTClaw Technical Team. 为全球代理提供高效、稳定的 WhatsApp 自动化技术。
